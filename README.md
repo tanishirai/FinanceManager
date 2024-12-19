@@ -49,9 +49,8 @@ A simple and user-friendly **Budget Tracker** application designed to help you m
 ## 💻 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Firebase (Authentication, Database)
 - **Database**: Firebase Firestore
-- **Authentication**: JWT, OAuth
+- AES Encryption (using `crypto.js`)
 - **Version Control**: Git, GitHub
 
 ---
